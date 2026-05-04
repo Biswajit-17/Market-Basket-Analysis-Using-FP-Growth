@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+mlxtend
+matplotlib
+seaborn
+PyQt5
