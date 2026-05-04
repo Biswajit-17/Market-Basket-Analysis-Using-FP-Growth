@@ -2,7 +2,7 @@
 Instacart Online Grocery Basket Analysis using FP-Growth Algorithm
 
 Dataset Link: https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset
-Github Repository: 
+Github Repository: https://github.com/Biswajit-17/Market-Basket-Analysis-Using-FP-Growth 
 -- Dependencies --
 pandas
 numpy
